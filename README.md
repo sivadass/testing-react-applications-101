@@ -1,6 +1,6 @@
 # testing-react-applications-101
 
-This is repository for saving demo code for my **Testing React Applications - 101** talk at Chennai.JS React Meetup, September 22, 2018.
+This is repository for saving demo code for my [Testing React Applications - 101](https://www.meetup.com/meetup-group-zZPQtwTs/events/254549168/) talk at Chennai.JS React Meetup, September 22, 2018.
 
 ## Topics to be covered:
 
