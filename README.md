@@ -4,9 +4,19 @@ This is repository for saving demo code for my [Testing React Applications - 101
 
 ## Topics to be covered:
 
-1. Introduction to Jest and Enzyme
-2. Installation and configuration of Test Environment
-3. Testing a component's state and props
-4. Testing Redux data and actions
-5. Testing Redux Thunk
-6. Testing Axios
+1. Introduction to Jest
+2. Introduction to Enzyme
+3. Installing Enzyme
+4. Test Rendering without errors
+4. Test Initial State
+5. Test Button Click
+6. What to do next?
+    * Testing Redux props
+    * Mocking ajax calls
+    * Testing Redux Thunk actions
+    * Testing forms
+
+## Commands
+```
+yarn test
+```
